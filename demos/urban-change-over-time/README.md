@@ -11,9 +11,9 @@ This app demonstrates how you can use 3D object layers to make a system of recor
 
 - Recording of the demo: [UC2024 - Urban change over time.mp4](https://esriis-my.sharepoint.com/:v:/g/personal/arno9993_esri_com/Ec3BCTicweJIqinwY6XfcFABuDE1JKPbVj5aqvVEWxFy-g)
 - 3D assets used in demo
-  - Blender project: [development-site.blend](https://arnofiva.github.io/UC2024-developer-day/building-proposal-v1.glb)
-  - Upladed building proposal: [building-proposal-v1.glb](https://arnofiva.github.io/UC2024-developer-day/building-proposal-v1.glb)
-- Source code is available on GitHub: [https://github.com/arnofiva/UC2024-developer-day/](https://github.com/arnofiva/UC2024-developer-day/)
+  - Blender project: [development-site.blend](https://github.com/Esri/3dgis-demos/raw/refs/heads/main/demos/urban-change-over-time/development-site.blend)
+  - Upladed building proposal: [building-proposal-v1.glb](https://github.com/Esri/3dgis-demos/raw/refs/heads/main/demos/urban-change-over-time/building-proposal-v1.glb)
+- Source code is available on GitHub: [https://github.com/Esri/3dgis-demos](https://github.com/Esri/3dgis-demos/tree/main/demos/urban-change-over-time)
 
 ## Steps
 
